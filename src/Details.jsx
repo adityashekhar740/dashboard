@@ -9,7 +9,7 @@ const Details = () => {
       <h1>Form Submitted Successfully!</h1>
       {form ? (
         <div>
-          <p><strong>First Name:</strong> {form.firstName}</p>
+          <p><strong>First name:</strong> {form.firstName}</p>
           <p><strong>Last Name:</strong> {form.lastName}</p>
           <p><strong>Username:</strong> {form.username}</p>
           <p><strong>Email:</strong> {form.email}</p>
